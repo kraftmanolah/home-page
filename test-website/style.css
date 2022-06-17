@@ -1,0 +1,56 @@
+.snappy {
+    color: black;
+}
+
+.fontie {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.make-size {
+    margin-top: 17%;
+}
+
+
+@media (min-width: 576px) {
+    .make-size {
+        font-size: 80px;
+    }
+}
+
+.do-list {
+    color: rgba(19, 99, 223, 0.8);
+}
+
+.calender {
+    color: rgba(71, 181, 255, 0.7);
+}
+
+.reminder {
+    color: rgb(108, 196, 161);
+}
+
+.planning {
+    color: rgb(161, 73, 250);
+}
+
+.d-biz {
+   font-size: 8px;
+}
+
+.phil-style {
+    margin-top: -15px;
+}
+
+.foot-color {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+
+.shads {
+    text-shadow: 1px 1px rgb(0,0,0,0.3);
+}
+
+.p-grags {
+    color: rgba(0, 0, 0, 0.4);
+} 
+
